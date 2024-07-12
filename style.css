@@ -1,0 +1,10 @@
+* {
+    font-family: sans-serif;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background: conic-gradient(red, orange, yellow, green, blue, purple, indigo, red);
+    border-radius: 50%;
+}
